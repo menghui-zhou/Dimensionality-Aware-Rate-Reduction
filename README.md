@@ -1,2 +1,7 @@
-# Dimensionality-Aware-Rate-Reduction
-This repository is related to our work accepted by AAAI-2026
+# Dimensionality-Aware Rate Reduction
+
+This repository accompanies our research work **accepted at AAAI 2026**.
+
+It is built upon and extends the implementation from [yaodongyu/mcr2](https://github.com/yaodongyu/mcr2).
+
+If you find this repository useful, please consider citing our paper.
